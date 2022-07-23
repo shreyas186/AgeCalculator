@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView10" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="textView11" type="id" />
+    <item name="log2" type="id" />
+    <item name="log1" type="id" />
+    <item name="textView9" type="id" />
+    <item name="textView8" type="id" />
+</resources>
